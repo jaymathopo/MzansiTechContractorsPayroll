@@ -63,8 +63,7 @@ Retesting
 Regression Testing
 ---
 GitHub Repository
-https://github.com/jaymathopo/MzansiTechContractorsPayrollSystem
----
+https://github.com/jaymathopo/MzansiTechContractorsPayroll
 How to Run the Application
 Open the solution in Visual Studio 2022
 Build the solution
